@@ -19,14 +19,14 @@ export const metadata = {
   ],
   authors: [{ name: "Alice Temitope Abiola" }],
   alternates: {
-    canonical: "https://your-domain.com/calculator",
+    canonical: "https://calculator-app-liart-three.vercel.app/calculator",
   },
   openGraph: {
     title: "Calculator App - Modern & Accessible",
     description:
       "A beautiful, accessible calculator with dark mode and keyboard shortcuts",
     type: "website",
-    url: "https://your-domain.com/calculator",
+    url: "https://calculator-app-liart-three.vercel.app/calculator",
     siteName: "Calculator App",
   },
   twitter: {
